@@ -1,6 +1,4 @@
-My Project
-------------
-# Pre-work - *Memory Game*
+# Memory Game
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
@@ -37,12 +35,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [ ] More features coming up soon!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[](https://cdn.glitch.com/7938eb09-d599-4353-aed3-f5c79683b418%2Fezgif.com-gif-maker.gif?v=1616649151835)
 ![](https://cdn.glitch.com/7938eb09-d599-4353-aed3-f5c79683b418%2Fezgif.com-gif-maker%20(1).gif?v=1616649941306)
 
 
@@ -82,7 +79,7 @@ this few hours to the deadline so I could not try my hands on the optional featu
     See the License for the specific language governing permissions and
     limitations under the License.
 
-Made by [LilSam:)]
+Made by LilSam:)
 -------------------
 
 \ ゜o゜)ノ
