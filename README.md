@@ -4,8 +4,6 @@
 
 Submitted by: **LILY SAM**
 
-Time spent: **4** hours spent in total
-
 Link to project: (https://glitch.com/edit/#!/tree-roan-cup?path=index.html%3A20%3A82)
 
 ## Required Functionality
