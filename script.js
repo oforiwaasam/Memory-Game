@@ -1,6 +1,6 @@
 /* If you're feeling fancy you can add interactivity 
     to your site with Javascript */
-// game is no more producing sound.. how and why?
+// game is no more producing sound.. figure it out
 
 // global constants
 const clueHoldTime = 1000; //how long to hold each clue's light/sound
